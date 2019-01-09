@@ -86,4 +86,6 @@ To make the controller work, note that you have to:
 
 ![pendulum_config_model](https://user-images.githubusercontent.com/12125604/50785868-2e31b900-12b2-11e9-93b5-3d53d6fc54be.png)
 
-**STEP 5)**  Finally, you can run the Simulink model. **[ADD GIF]**
+**STEP 5)**  Finally, you can run the Simulink model. 
+
+![pendulum-animation](https://user-images.githubusercontent.com/12125604/50907330-5ee72f00-1427-11e9-878a-b104ba565f8a.gif)
